@@ -1,0 +1,9 @@
+# Never upload: personal API key
+api_key.txt
+
+# Do not commit Stockfish (GPL, large binary)
+stockfish*/
+stockfish*.exe
+
+__pycache__/
+*.pyc
